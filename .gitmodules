@@ -1,180 +1,210 @@
 [submodule "Themes/Flatly"]
 	path = Themes/Flatly
-	url = https://github.com/imagina/imaginacms-theme.git
+	url = https://github.com/CristianMarin19/imaginacms-theme.git
 [submodule "Themes/Adminlte"]
 	path = Themes/Adminlte
-	url = https://github.com/imagina/imaginacmsadmin-theme.git
+	url = https://github.com/CristianMarin19/imaginacmsadmin-theme.git
 [submodule "Modules/Core"]
 	path = Modules/Core
-	url = https://github.com/imagina/imaginacms-core.git
+	url = https://github.com/CristianMarin19/imaginacms-core.git
 [submodule "Modules/Dashboard"]
 	path = Modules/Dashboard
-	url = https://github.com/imagina/imaginacms-dashboard.git
-[submodule "Modules/Ibanners"]
-	path = Modules/Ibanners
-	url = https://github.com/imagina/imaginacms-ibanners.git
+	url = https://github.com/CristianMarin19/imaginacms-dashboard.git
 [submodule "Modules/Iblog"]
 	path = Modules/Iblog
-	url = https://github.com/imagina/imaginacms-iblog.git
+	url = https://github.com/CristianMarin19/imaginacms-iblog.git
 [submodule "Modules/Icommerce"]
 	path = Modules/Icommerce
-	url = https://github.com/imagina/imaginacms-icommerce.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerce.git
 [submodule "Modules/Icommerceagree"]
 	path = Modules/Icommerceagree
-	url = https://github.com/imagina/imaginacms-icommerceagree.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerceagree.git
 [submodule "Modules/Icommercecheckmo"]
 	path = Modules/Icommercecheckmo
-	url = https://github.com/imagina/imaginacms-icommercecheckmo.git
-[submodule "Modules/Icurrency"]
-	path = Modules/Icurrency
-	url = https://github.com/imagina/imaginacms-icurrency.git
+	url = https://github.com/CristianMarin19/imaginacms-icommercecheckmo.git
 [submodule "Modules/Iforms"]
 	path = Modules/Iforms
-	url = https://github.com/imagina/imaginacms-iforms.git
+	url = https://github.com/CristianMarin19/imaginacms-iforms.git
 [submodule "Modules/Ihelpers"]
 	path = Modules/Ihelpers
-	url = https://github.com/imagina/imaginacms-ihelpers.git
+	url = https://github.com/CristianMarin19/imaginacms-ihelpers.git
 [submodule "Modules/Ilocations"]
 	path = Modules/Ilocations
-	url = https://github.com/imagina/imaginacms-ilocations.git
+	url = https://github.com/CristianMarin19/imaginacms-ilocations.git
 [submodule "Modules/Iprofile"]
 	path = Modules/Iprofile
-	url = https://github.com/imagina/imaginacms-iprofile.git
+	url = https://github.com/CristianMarin19/imaginacms-iprofile.git
 [submodule "Modules/Iredirect"]
 	path = Modules/Iredirect
-	url = https://github.com/imagina/imaginacms-iredirect.git
+	url = https://github.com/CristianMarin19/imaginacms-iredirect.git
 [submodule "Modules/Isearch"]
 	path = Modules/Isearch
-	url = https://github.com/imagina/imaginacms-isearch.git
+	url = https://github.com/CristianMarin19/imaginacms-isearch.git
 [submodule "Modules/Isite"]
 	path = Modules/Isite
-	url = https://github.com/imagina/imaginacms-isite.git
+	url = https://github.com/CristianMarin19/imaginacms-isite.git
 [submodule "Modules/Media"]
 	path = Modules/Media
-	url = https://github.com/imagina/imaginacms-imedia.git
+	url = https://github.com/CristianMarin19/imaginacms-imedia.git
 [submodule "Modules/Menu"]
 	path = Modules/Menu
-	url = https://github.com/imagina/imaginacms-menu.git
+	url = https://github.com/CristianMarin19/imaginacms-menu.git
 [submodule "Modules/Notification"]
 	path = Modules/Notification
-	url = https://github.com/imagina/imaginacms-inotifications.git
+	url = https://github.com/CristianMarin19/imaginacms-inotifications.git
 [submodule "Modules/Page"]
 	path = Modules/Page
-	url = https://github.com/imagina/imaginacms-page.git
+	url = https://github.com/CristianMarin19/imaginacms-page.git
 [submodule "Modules/Setting"]
 	path = Modules/Setting
-	url = https://github.com/imagina/imaginacms-setting.git
+	url = https://github.com/CristianMarin19/imaginacms-setting.git
 [submodule "Modules/Slider"]
 	path = Modules/Slider
-	url = https://github.com/imagina/imaginacms-slider.git
+	url = https://github.com/CristianMarin19/imaginacms-slider.git
 [submodule "Modules/User"]
 	path = Modules/User
-	url = https://github.com/imagina/imaginacms-user.git
+	url = https://github.com/CristianMarin19/imaginacms-user.git
 [submodule "Modules/Idocs"]
 	path = Modules/Idocs
-	url = https://github.com/imagina/imaginacms-idocs.git
+	url = https://github.com/CristianMarin19/imaginacms-idocs.git
 [submodule "Modules/Tag"]
 	path = Modules/Tag
-	url = https://github.com/imagina/imaginacms-tag
+	url = https://github.com/CristianMarin19/imaginacms-tag
 [submodule "Modules/Workshop"]
 	path = Modules/Workshop
-	url = https://github.com/imagina/imaginacms-workshop.git
+	url = https://github.com/CristianMarin19/imaginacms-workshop.git
 [submodule "Modules/Translation"]
 	path = Modules/Translation
-	url = https://github.com/imagina/imaginacms-translation.git
+	url = https://github.com/CristianMarin19/imaginacms-translation.git
 [submodule "Modules/Icommercexpay"]
 	path = Modules/Icommercexpay
-	url = https://github.com/imagina/imaginacms-icommerceXpay.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerceXpay.git
 [submodule "Modules/Icommercepayu"]
 	path = Modules/Icommercepayu
-	url = https://github.com/imagina/imaginacms-icommercePayu.git
+	url = https://github.com/CristianMarin19/imaginacms-icommercePayu.git
 [submodule "Modules/Icommerceflatrate"]
 	path = Modules/Icommerceflatrate
-	url = https://github.com/imagina/asgardcms-Icommerceflatrate.git
+	url = https://github.com/CristianMarin19/asgardcms-Icommerceflatrate.git
 [submodule "Modules/Icommercecredibanco"]
 	path = Modules/Icommercecredibanco
-	url = https://github.com/imagina/imaginacms-icommerceCredibanco.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerceCredibanco.git
 [submodule "Modules/Iplaces"]
 	path = Modules/Iplaces
-	url = https://github.com/imagina/imaginacms-iplace.git
+	url = https://github.com/CristianMarin19/imaginacms-iplace.git
 [submodule "Modules/Ichat"]
 	path = Modules/Ichat
-	url = https://github.com/imagina/imaginacms-ichat.git
+	url = https://github.com/CristianMarin19/imaginacms-ichat.git
 [submodule "Modules/Ievent"]
 	path = Modules/Ievent
-	url = https://github.com/imagina/imaginacms-ievent.git
+	url = https://github.com/CristianMarin19/imaginacms-ievent.git
 [submodule "Modules/Iplan"]
 	path = Modules/Iplan
-	url = https://github.com/imagina/imaginacms-iplan.git
+	url = https://github.com/CristianMarin19/imaginacms-iplan.git
 [submodule "Modules/Iad"]
 	path = Modules/Iad
-	url = https://github.com/imagina/imaginacms-iad.git
+	url = https://github.com/CristianMarin19/imaginacms-iad.git
 [submodule "Modules/Icheckin"]
 	path = Modules/Icheckin
-	url = https://github.com/imagina/imaginacms-icheckin.git
+	url = https://github.com/CristianMarin19/imaginacms-icheckin.git
 [submodule "Modules/Iappointment"]
 	path = Modules/Iappointment
-	url = https://github.com/imagina/imaginacms-iappointment.git
+	url = https://github.com/CristianMarin19/imaginacms-iappointment.git
 [submodule "Modules/Iwhmcs"]
 	path = Modules/Iwhmcs
-	url = https://github.com/imagina/iwhmcs.git
+	url = https://github.com/CristianMarin19/iwhmcs.git
 [submodule "Modules/Icommercepaypal"]
 	path = Modules/Icommercepaypal
-	url = https://github.com/imagina/imaginacms-icommercePaypal.git
+	url = https://github.com/CristianMarin19/imaginacms-icommercePaypal.git
 [submodule "Modules/Icommerceepayco"]
 	path = Modules/Icommerceepayco
-	url = https://github.com/imagina/imaginacms-icommerceEpayco.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerceEpayco.git
 [submodule "Modules/Icommercewompi"]
 	path = Modules/Icommercewompi
-	url = https://github.com/imagina/imaginacms-icommerceWompi.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerceWompi.git
 [submodule "Modules/Icommercepricelist"]
 	path = Modules/Icommercepricelist
-	url = https://github.com/imagina/imaginacms-icommercepricelist.git
+	url = https://github.com/CristianMarin19/imaginacms-icommercepricelist.git
 [submodule "Modules/Icommercefreeshipping"]
 	path = Modules/Icommercefreeshipping
-	url = https://github.com/imagina/imaginacms-icommerceFreeShipping.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerceFreeShipping.git
 [submodule "Modules/Wishlistable"]
 	path = Modules/Wishlistable
-	url = https://github.com/imagina/imaginacms-wishlistable.git
-[submodule "Modules/Qreable"]
-	path = Modules/Qreable
-	url = https://github.com/imagina/imaginacms-qreable.git
+	url = https://github.com/CristianMarin19/imaginacms-wishlistable.git
 [submodule "Modules/Ischedulable"]
 	path = Modules/Ischedulable
-	url = https://github.com/imagina/imaginacms-ischedulable.git
+	url = https://github.com/CristianMarin19/imaginacms-ischedulable.git
 [submodule "Modules/Ibooking"]
 	path = Modules/Ibooking
-	url = https://github.com/imagina/imaginacms-ibooking.git
+	url = https://github.com/CristianMarin19/imaginacms-ibooking.git
 [submodule "Modules/Ifillable"]
 	path = Modules/Ifillable
-	url = https://github.com/imagina/imaginacms-ifillable.git
+	url = https://github.com/CristianMarin19/imaginacms-ifillable.git
 [submodule "Modules/Requestable"]
 	path = Modules/Requestable
-	url = https://github.com/imagina/imaginacms-requestable.git
+	url = https://github.com/CristianMarin19/imaginacms-requestable.git
 [submodule "Modules/Rateable"]
 	path = Modules/Rateable
-	url = https://github.com/imagina/imaginacms-rateable.git
+	url = https://github.com/CristianMarin19/imaginacms-rateable.git
 [submodule "Modules/Ibinnacle"]
 	path = Modules/Ibinnacle
-	url = https://github.com/imagina/imaginacms-binnacle.git
+	url = https://github.com/CristianMarin19/imaginacms-binnacle.git
 [submodule "Modules/Icredit"]
 	path = Modules/Icredit
-	url = https://github.com/imagina/imaginacms-icredit.git
+	url = https://github.com/CristianMarin19/imaginacms-icredit.git
 [submodule "Modules/Iauctions"]
 	path = Modules/Iauctions
-	url = https://github.com/imagina/imaginacms-iauctions.git
+	url = https://github.com/CristianMarin19/imaginacms-iauctions.git
 [submodule "Modules/Igamification"]
 	path = Modules/Igamification
-	url = https://github.com/imagina/imaginacms-igamification.git
+	url = https://github.com/CristianMarin19/imaginacms-igamification.git
 [submodule "Modules/Icommercestripe"]
 	path = Modules/Icommercestripe
-	url = https://github.com/imagina/imaginacms-icommerceStripe.git
+	url = https://github.com/CristianMarin19/imaginacms-icommerceStripe.git
 [submodule "Modules/Ibuilder"]
 	path = Modules/Ibuilder
-	url = https://github.com/imagina/imaginacms-ibuilder.git
+	url = https://github.com/CristianMarin19/imaginacms-ibuilder.git
 [submodule "Modules/Icomments"]
 	path = Modules/Icomments
-	url = https://github.com/imagina/imaginacms-icomments.git
+	url = https://github.com/CristianMarin19/imaginacms-icomments.git
 [submodule "Modules/Iqreable"]
 	path = Modules/Iqreable
-	url = https://github.com/imagina/imaginacms-iqreable.git
+	url = https://github.com/CristianMarin19/imaginacms-iqreable.git
+[submodule "Modules/IcommercePayzen"]
+	path = Modules/IcommercePayzen
+	url = https://github.com/CristianMarin19/imaginacms-icommercePayzen.git
+[submodule "Modules/IcommerceOrdertotal"]
+	path = Modules/IcommerceOrdertotal
+	url = https://github.com/CristianMarin19/imaginacms-icommerceOrdertotal.git
+[submodule "Modules/IcommerceOpenpay"]
+	path = Modules/IcommerceOpenpay
+	url = https://github.com/CristianMarin19/imaginacms-icommerceOpenpay.git
+[submodule "Modules/IcommerceAuthorize"]
+	path = Modules/IcommerceAuthorize
+	url = https://github.com/CristianMarin19/imaginacms-icommerceAuthorize.git
+[submodule "Modules/IcommerceCoordinadora"]
+	path = Modules/IcommerceCoordinadora
+	url = https://github.com/CristianMarin19/imaginacms-icommerceCoordinadora.git
+[submodule "Modules/IcommerceBraintree"]
+	path = Modules/IcommerceBraintree
+	url = https://github.com/CristianMarin19/imaginacms-icommerceBraintree.git
+[submodule "Modules/IcommercePaymentez"]
+	path = Modules/IcommercePaymentez
+	url = https://github.com/CristianMarin19/imaginacms-icommercePaymentez.git
+[submodule "Modules/Ifeed"]
+	path = Modules/Ifeed
+	url = https://github.com/CristianMarin19/imaginacms-ifeed.git
+[submodule "Modules/Ifollow"]
+	path = Modules/Ifollow
+	url = https://github.com/CristianMarin19/imaginacms-ifollow.git
+[submodule "Modules/Imeeting"]
+	path = Modules/Imeeting
+	url = https://github.com/CristianMarin19/imaginacms-imeeting.git
+[submodule "Modules/Ipay"]
+	path = Modules/Ipay
+	url = https://github.com/CristianMarin19/imaginacms-ipay.git
+[submodule "Modules/Ipoint"]
+	path = Modules/Ipoint
+	url = https://github.com/CristianMarin19/imaginacms-ipoint.git
+[submodule "Modules/IcommerceAuthorize"]
+	path = Modules/IcommerceAuthorize
+	url = https://github.com/CristianMarin19/imaginacms-icommerceAuthorize.git
