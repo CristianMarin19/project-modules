@@ -190,3 +190,6 @@
 [submodule "Modules/Iaccounting"]
 	path = Modules/Iaccounting
 	url = https://github.com/imagina/imaginacms-iaccounting.git
+[submodule "Modules/Itask"]
+	path = Modules/Itask
+	url = https://github.com/imagina/imaginacms-itask.git
