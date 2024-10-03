@@ -193,3 +193,6 @@
 [submodule "Modules/Itask"]
 	path = Modules/Itask
 	url = https://github.com/imagina/imaginacms-itask.git
+[submodule "Modules/Itelemetry"]
+	path = Modules/Itelemetry
+	url = https://github.com/imagina/imaginacms-itelemetry.git
