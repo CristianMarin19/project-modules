@@ -26,6 +26,7 @@ yarn.lock
 #Themes but not ImaginaTheme
 /Themes/*
 !/Themes/Adminlte
+!/Themes/ImaginaTheme
 
 #Modules but not Modules Icustom
 #/Modules/*

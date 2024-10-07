@@ -199,3 +199,6 @@
 [submodule "Modules/Iwallet"]
 	path = Modules/Iwallet
 	url = https://github.com/imagina/imaginacms-iwallet.git
+[submodule "Themes/ImaginaTheme"]
+	path = Themes/ImaginaTheme
+	url = https://github.com/imagina/imaginacms-theme.git
