@@ -202,3 +202,6 @@
 [submodule "Themes/ImaginaTheme"]
 	path = Themes/ImaginaTheme
 	url = https://github.com/imagina/imaginacms-theme.git
+[submodule "Modules/Iretail"]
+	path = Modules/Iretail
+	url = https://github.com/imagina/imaginacms-iretail.git
