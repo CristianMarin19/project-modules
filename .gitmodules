@@ -205,3 +205,6 @@
 [submodule "Modules/Iretail"]
 	path = Modules/Iretail
 	url = https://github.com/imagina/imaginacms-iretail.git
+[submodule "vendor/imagina/laravel-responsecache"]
+	path = vendor/imagina/laravel-responsecache
+	url = https://github.com/imagina/laravel-responsecache.git
