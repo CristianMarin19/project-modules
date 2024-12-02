@@ -205,3 +205,12 @@
 [submodule "Modules/Iretail"]
 	path = Modules/Iretail
 	url = https://github.com/imagina/imaginacms-iretail.git
+[submodule "Modules/Iprice"]
+	path = Modules/Iprice
+	url = https://github.com/imagina/imaginacms-iprice.git
+[submodule "Modules/Iproduct"]
+	path = Modules/Iproduct
+	url = https://github.com/imagina/imaginacms-iproduct.git
+[submodule "Modules/Iorder"]
+	path = Modules/Iorder
+	url = https://github.com/imagina/imaginacms-iorder.git
