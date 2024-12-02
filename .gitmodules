@@ -208,3 +208,12 @@
 [submodule "vendor/imagina/laravel-responsecache"]
 	path = vendor/imagina/laravel-responsecache
 	url = https://github.com/imagina/laravel-responsecache.git
+[submodule "Modules/Iprice"]
+	path = Modules/Iprice
+	url = https://github.com/imagina/imaginacms-iprice.git
+[submodule "Modules/Iproduct"]
+	path = Modules/Iproduct
+	url = https://github.com/imagina/imaginacms-iproduct.git
+[submodule "Modules/Iorder"]
+	path = Modules/Iorder
+	url = https://github.com/imagina/imaginacms-iorder.git
