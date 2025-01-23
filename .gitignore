@@ -2,7 +2,7 @@
 /public/hot
 /public/storage/*
 /storage/*.key
-/vendor
+#/vendor
 Homestead.json
 Homestead.yaml
 npm-debug.log
@@ -26,6 +26,7 @@ yarn.lock
 #Themes but not ImaginaTheme
 /Themes/*
 !/Themes/Adminlte
+!/Themes/ImaginaTheme
 
 #Modules but not Modules Icustom
 #/Modules/*

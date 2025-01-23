@@ -178,3 +178,45 @@
 [submodule "Modules/Iqreable"]
 	path = Modules/Iqreable
 	url = https://github.com/imagina/imaginacms-iqreable.git
+[submodule "Modules/Ifollow"]
+	path = Modules/Ifollow
+	url = https://github.com/imagina/imaginacms-ifollow.git
+[submodule "Modules/Iwebhooks"]
+	path = Modules/Iwebhooks
+	url = https://github.com/imagina/imaginacms-iwebhook.git
+[submodule "Modules/Ifeed"]
+	path = Modules/Ifeed
+	url = https://github.com/imagina/imaginacms-ifeed.git
+[submodule "Modules/Iaccounting"]
+	path = Modules/Iaccounting
+	url = https://github.com/imagina/imaginacms-iaccounting.git
+[submodule "Modules/Itask"]
+	path = Modules/Itask
+	url = https://github.com/imagina/imaginacms-itask.git
+[submodule "Modules/Itelemetry"]
+	path = Modules/Itelemetry
+	url = https://github.com/imagina/imaginacms-itelemetry.git
+[submodule "Modules/Iwallet"]
+	path = Modules/Iwallet
+	url = https://github.com/imagina/imaginacms-iwallet.git
+[submodule "Themes/ImaginaTheme"]
+	path = Themes/ImaginaTheme
+	url = https://github.com/imagina/imaginacms-theme.git
+[submodule "Modules/Iretail"]
+	path = Modules/Iretail
+	url = https://github.com/imagina/imaginacms-iretail.git
+[submodule "vendor/imagina/laravel-responsecache"]
+	path = vendor/imagina/laravel-responsecache
+	url = https://github.com/imagina/laravel-responsecache.git
+[submodule "Modules/Iprice"]
+	path = Modules/Iprice
+	url = https://github.com/imagina/imaginacms-iprice.git
+[submodule "Modules/Iproduct"]
+	path = Modules/Iproduct
+	url = https://github.com/imagina/imaginacms-iproduct.git
+[submodule "Modules/Iorder"]
+	path = Modules/Iorder
+	url = https://github.com/imagina/imaginacms-iorder.git
+[submodule "Modules/Iexternal"]
+	path = Modules/Iexternal
+	url = https://github.com/imagina/imaginacms-iexternal.git
